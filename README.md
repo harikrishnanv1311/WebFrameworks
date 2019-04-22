@@ -1,5 +1,5 @@
 # Web Frameworks Project
-A project to replicate our Web Technologies Project using Django
+A project to replicate our Web Technologies Project using Django.
 
 ## Team Details
 ### Team Name: *KBH*
